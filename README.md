@@ -1,24 +1,16 @@
 ## Noise-resilient graph-based multi-source urban land-use mapping: A case study of cities in three continents
 
---------
-
-#### Getting Started
-
-----------
-
-##### Requirements:
+#### Requirements:
 
 - python >= 3.8
 - pytorch >= 2.0.0
 - dgl >= 1.1.2
 
-##### Dataset:
+#### Dataset:
 
 The Multi-CUN dataset and datasets of the study areas are released at [Baidu Drive](https://pan.baidu.com/s/1av5FXqlJ58lTtTOrSK2RQw) [Code: atvs]. You can download the data via the link for experimental use.
 
-#### Evaluate NGLU model on the dataset
-
------------
+#### Evaluate NGLU model on the datasets
 
 - Multi-CUN dataset
 
